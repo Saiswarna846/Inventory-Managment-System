@@ -58,7 +58,7 @@ REACT_APP_SUPABASE_KEY=your-supabase-key
 Create a new project at supabase.com
 Run the SQL setup script from supabase/setup.sql
 
-- Running Locally
+### Running Locally
 ```
 npm start   (Runs the app in development mode at http://localhost:3000)
 
