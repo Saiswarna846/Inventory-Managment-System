@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/iitpkd_novare/static/css/main.073c9b0a.css",
+    "main.js": "/iitpkd_novare/static/js/main.37641cc7.js",
+    "static/js/787.353b1b1b.chunk.js": "/iitpkd_novare/static/js/787.353b1b1b.chunk.js",
+    "static/media/chimmony.jpg": "/iitpkd_novare/static/media/chimmony.368f8779c20f03171b89.jpg",
+    "static/media/article1.jpg": "/iitpkd_novare/static/media/article1.a0dd0b1676675dd31aaf.jpg",
+    "static/media/nature1.jpg": "/iitpkd_novare/static/media/nature1.4df52fe6dd328a47e9a0.jpg",
+    "static/media/dhoni.jpg": "/iitpkd_novare/static/media/dhoni.4686db46f941e3dd58c2.jpg",
+    "static/media/nature2.jpg": "/iitpkd_novare/static/media/nature2.b646bb9109c26bb635c0.jpg",
+    "static/media/munnar.jpg": "/iitpkd_novare/static/media/munnar.f2ea959e68ce01a0d73c.jpg",
+    "index.html": "/iitpkd_novare/index.html",
+    "main.073c9b0a.css.map": "/iitpkd_novare/static/css/main.073c9b0a.css.map",
+    "main.37641cc7.js.map": "/iitpkd_novare/static/js/main.37641cc7.js.map",
+    "787.353b1b1b.chunk.js.map": "/iitpkd_novare/static/js/787.353b1b1b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.37641cc7.js"
+  ]
+}
