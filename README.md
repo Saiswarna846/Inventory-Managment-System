@@ -24,7 +24,7 @@ A full-stack inventory management application built with React, Supabase, and Fi
 
 ## Live Demo
 
-[View Live Application](https://iitpkd-novare-s32-aaf58.web.app)
+[View Live Application](https://inventory-managment-syst-c79d9.web.app)
 
 ## Setup Instructions
 
